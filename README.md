@@ -30,5 +30,5 @@ The system demonstrates:
 ## How to Run
 
 1. Open the project in PyCharm.
-2. Run main.py.
+2. Run mini project.py.
 3. Follow the menu displayed in the terminal.
